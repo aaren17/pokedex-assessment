@@ -1,5 +1,5 @@
 # ⚠️ Disclaimer
-I have extensively used AI while building this project. My AI chat transcripts can be found at the links below. I also extensively used Copilot in my development environment VSCode I was unable to find the chat history as they were session based
+I have extensively used AI while building this project. My AI chat transcripts can be found at the links below. I also extensively used Copilot in my development environment VSCode I was unable to find the chat history for this as they were session based
 - https://gemini.google.com/share/4f94388f5f32
 ---
 # Website Images
