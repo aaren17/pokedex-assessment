@@ -2,7 +2,12 @@
 I have extensively used AI while building this project. My AI chat transcripts can be found at the links below. I also extensively used Copilot in my development environment VSCode I was unable to find the chat history as they were session based
 - https://gemini.google.com/share/4f94388f5f32
 ---
+# Website Images
 
+<img width="2553" height="1397" alt="Screenshot 2025-12-03 005421" src="https://github.com/user-attachments/assets/11ad783f-1a30-4e10-bd90-fb58aa5e4115" />
+<img width="2544" height="1398" alt="Screenshot 2025-12-03 005455" src="https://github.com/user-attachments/assets/f4faa33a-d4ee-4bc0-a0cb-37e58deccb80" />
+
+-----
 # Pokedex Assessment
 
 Full-stack Pokédex web application built with **Next.js 14** on the frontend and **Laravel 11** on the backend. The app showcases Pokémon data with a hero carousel, sticky promotional banners, infinite scrolling, and search functionality powered by a custom Laravel API.
