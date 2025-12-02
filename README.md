@@ -1,5 +1,5 @@
 # ⚠️ Disclaimer
-I have extensively used AI while building this project. My AI chat transcripts can be found at the links below. I also extensively used Copilot in my development environment VSCode I was unable to find the chat history for this as they were session based
+I have extensively used AI while building this project. My AI chat transcripts can be found at the links below. I also extensively used Copilot in my development environment VSCode I was unable to find the chat history for this as they were session based. Also I have never used PHP(Laravel) and Next.js before this project.
 - https://gemini.google.com/share/4f94388f5f32
 ---
 # Website Images
@@ -23,9 +23,6 @@ Full-stack Pokédex web application built with **Next.js 14** on the frontend an
 6. [Backend](#backend)
 7. [API Reference](#api-reference)
 8. [Development Workflow](#development-workflow)
-9. [Troubleshooting](#troubleshooting)
-10. [Roadmap](#roadmap)
-11. [License](#license)
 
 ---
 
@@ -150,30 +147,3 @@ Fetch paginated Pokémon.
 1. Start backend: `./vendor/bin/sail up`
 2. Start frontend: `npm run dev`
 3. Commit changes: `git add . && git commit -m "<message>"`
-
----
-
-## Troubleshooting
-
-| Issue | Cause | Fix |
-|-------|-------|-----|
-| `Failed to fetch` | Backend not running / wrong URL | Ensure Sail is up, check `NEXT_PUBLIC_API_URL` |
-| `Unexpected token '<'` | API returned HTML (404) | Verify routes registered in `bootstrap/app.php` |
-| Hydration warnings | Browser extensions or non-deterministic render | Disable extensions, keep rendering deterministic |
-
----
-
-## Roadmap
-- Pokémon detail modal with stats
-- Favorites/team builder
-- Advanced filters (type, generation)
-- Auth via Laravel Sanctum
-- Automated tests (Jest + PHPUnit)
-- CI/CD pipeline
-
----
-
-## License
-MIT License. See `LICENSE` (if provided) or add your preferred license.
-
----
